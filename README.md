@@ -1,4 +1,4 @@
-<h1>Hi, I'm Tony<br/></h1><h2><a href="https://www.linkedin.com/in/TonyTaylorPM">Senior Technical Project Manager</a></h2>
+<h1>Hi, I'm Tony<br/><a href="https://www.linkedin.com/in/TonyTaylorPM">Senior Technical Project Manager</a></h1>
 
 <h2>👨‍💻 Projects:</h2>
 
