@@ -2,8 +2,7 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-- <b>Adding Soon</b>
-  - [Azure FinOps Guardrails](https://github.com/AskTonyTaylor/azure-finops-guardrails)
+- [Azure FinOps Guardrails](https://github.com/AskTonyTaylor/azure-finops-guardrails)
 
 <h2>📺 Popular YouTube Videos</h2>
 
